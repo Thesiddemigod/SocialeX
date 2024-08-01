@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCWTxkgcyJrqzabhi5TjKfFD8Sr02XZl-Q",
+  apiKey: "",
   authDomain: "socialex-85cb3.firebaseapp.com",
   projectId: "socialex-85cb3",
   storageBucket: "socialex-85cb3.appspot.com",
